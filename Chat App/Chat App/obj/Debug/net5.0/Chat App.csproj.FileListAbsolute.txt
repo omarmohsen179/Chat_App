@@ -1,0 +1,71 @@
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\appsettings.json
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.exe
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.deps.json
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.runtimeconfig.json
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\ref\Chat App.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Chat App.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.AssemblyInfo.cs
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\staticwebassets\Chat App.StaticWebAssets.Manifest.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\staticwebassets\Chat App.StaticWebAssets.xml
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\scopedcss\bundle\Chat App.styles.css
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.RazorTargetAssemblyInfo.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.csproj.CopyComplete
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\ref\Chat App.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.pdb
+C:\Users\Legion\source\repos\Chat App\Chat App\obj\Debug\net5.0\Chat App.genruntimeconfig.cache
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Legion\source\repos\Chat App\Chat App\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
